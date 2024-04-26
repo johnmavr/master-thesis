@@ -67,7 +67,7 @@ To run this code, you’ll need the following *Python3* libraries installed:
 
 3) and the generated - saved pictures (*.png* files) from the execution of the auxiliary code (*plots_all_models_together.py*)
 
-- The folder *tabulated_generated_data* contains the generated - saved tabular data from the folders *SEMF, FRDM2012, WS4RBF, BSKG3, HFB31, DDMED, DDPC1, SVMIN* and *UNEDF0*, more organized as *.ods* files
+- The folder *tabulated generated data* contains the generated - saved tabular data from the folders *SEMF, FRDM2012, WS4RBF, BSKG3, HFB31, DDMED, DDPC1, SVMIN* and *UNEDF0*, more organized as *.ods* files
 
 
 ---
